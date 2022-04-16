@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Design Work</string>
+    <string name="title">Reader</string>
+    <string name="bookName">Değersiz Bir Hayat</string>
+    <string name="authorName">Hanya Yanagihara</string>
+    <string name="publisher">Yayınevi : Doğan Kitap</string>
+    <string name="isbn">ISBN : 9786050949889</string>
+    <string name="paperType">Hamur Tipi : 2. Hamur</string>
+    <string name="bookSize">Ebat : 13,5 x 19,5</string>
+    <string name="firstEdition">İlk Baskı Yılı : 2018</string>
+    <string name="preview">İNCELE</string>
+    <string name="buyOnAmazon">AMAZON</string>
+    <string name="otherStores">DİĞER MAĞAZALAR</string>
+</resources>
